@@ -1,7 +1,7 @@
 # Personal Task Tracker
 
 ## Description
-A simple personal task management app built using React. It allows users to manage daily tasks with features like login, task creation, editing, deletion, filtering, and data persistence. This project was built as part of an intern pre-hiring assignment.
+A simple personal task management app built using React. It allows users to manage daily tasks with features like login, task creation, editing, deletion, filtering, and data persistence.
 
 ## Features
 - Simple login with name and email (stored in localStorage)
@@ -17,7 +17,7 @@ A simple personal task management app built using React. It allows users to mana
 
 ## Setup Instructions
 1. Clone the repository  
-   `git clone https://github.com/surajbisht-dev/Task-Tracker.git`
+   `https://github.com/surajbisht-dev/Task-Tracker-App-.git`
 2. Navigate to the project directory  
    `cd Task-Tracker`
 3. Install dependencies  
